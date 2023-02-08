@@ -1,0 +1,15 @@
+C:\Programm\ignor\bin\Debug\net7.0\ignor.exe
+C:\Programm\ignor\bin\Debug\net7.0\ignor.deps.json
+C:\Programm\ignor\bin\Debug\net7.0\ignor.runtimeconfig.json
+C:\Programm\ignor\bin\Debug\net7.0\ignor.dll
+C:\Programm\ignor\bin\Debug\net7.0\ignor.pdb
+C:\Programm\ignor\obj\Debug\net7.0\ignor.csproj.AssemblyReference.cache
+C:\Programm\ignor\obj\Debug\net7.0\ignor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programm\ignor\obj\Debug\net7.0\ignor.AssemblyInfoInputs.cache
+C:\Programm\ignor\obj\Debug\net7.0\ignor.AssemblyInfo.cs
+C:\Programm\ignor\obj\Debug\net7.0\ignor.csproj.CoreCompileInputs.cache
+C:\Programm\ignor\obj\Debug\net7.0\ignor.dll
+C:\Programm\ignor\obj\Debug\net7.0\refint\ignor.dll
+C:\Programm\ignor\obj\Debug\net7.0\ignor.pdb
+C:\Programm\ignor\obj\Debug\net7.0\ignor.genruntimeconfig.cache
+C:\Programm\ignor\obj\Debug\net7.0\ref\ignor.dll
